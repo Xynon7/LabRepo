@@ -1,0 +1,6 @@
+The code that was generated included constructors, setters and getters. It also generated many useful comments, along with better toString methods.
+The One to Many relations also created List<> rather than arrays, which could be more useful or worse depending on the circumstances.
+This would be very useful when creating a large Java program. Not only does Umple make the design stage of the coding much easier,
+it also removes many tedious tasks from the beginning of the project.
+Umple would probably be less useful for small or insignificant classes, because there would be a lot of extra code and unnecessary comments.
+However, large projects would benefit greatly from the use of Umple, because large numbers of classes and class relations could be easily created.

@@ -1,0 +1,19 @@
+class Customer
+{
+   name;
+   address;
+  1 -- * Order;
+}
+
+class Account
+{
+  double balance;
+  * -- 1 Customer;
+}
+
+class Order
+{
+  double orderPrice;
+  Date orderDate;
+  boolean completed;
+}
